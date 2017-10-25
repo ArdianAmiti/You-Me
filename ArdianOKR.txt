@@ -1,0 +1,5 @@
+- Edit character sprites - COMPLETED, AWAITING APPROVAL - Time Spent: many hrs
+- Gather pixel art assets for scene construction and enemies - ASAP - Estimate: ?? hrs
+- Lay out UI design - Fri by 9pm - Estimate: 1hrs
+- Write light screenplay rough draft of first stage dialogue - Fri by 9pm - Estimate: 1-2hrs
+- Create flow outline for event system - Fri by 9pm - Estimate: 1-2hrs
